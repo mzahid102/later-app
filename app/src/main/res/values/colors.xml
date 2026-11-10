@@ -1,0 +1,9 @@
+<resources>
+    <color name="bg">#EDF0EC</color>
+    <color name="surface">#F8F9F6</color>
+    <color name="ink">#1E2622</color>
+    <color name="muted">#6B746F</color>
+    <color name="accent">#2E5E4E</color>
+    <color name="on_accent">#F4F7F3</color>
+    <color name="launcher_bg">#2E5E4E</color>
+</resources>
